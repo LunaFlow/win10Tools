@@ -1,0 +1,1248 @@
+{
+	"emotions_comment" 	  : ["fear", "anger", "sadness", "disgust", "joy", "surprise", "trust", "anticipation"],
+	"emotions_comment_cn" : ["恐惧", "生气", "悲伤", "厌恶", "开心", "惊讶", "信任", "平静","退出"],
+	"_comment1":"樱小路露娜",
+	"lun" : [
+		{
+			"_comment"	: "_______包含多个语音_________",
+			"cn"	    : "少女娇喘中(多文件，不要选。程序会崩)",
+			"jp"	    : "",
+			"fileName"	: ["v_lun4444.wav","v_lun4454.wav"],
+			"emotions"	: ""
+		},
+		{
+			"_comment"	: "_______包含多个语音_________",
+			"cn"	    : "露娜害羞中(多文件，不要选。程序会崩)",
+			"jp"	    : "",
+			"fileName"	: ["v_lun4004.wav","v_lun4017.wav"],
+			"emotions"	: ""
+		},
+		{
+			"cn"	    : "真好呀（羡慕）",
+			"jp"	    : "",
+			"fileName"	: "v_lun0639.wav",
+			"emotions"	: "joy"
+
+		},
+		{
+			"cn"	    : "呵~你真是纯粹呢",
+			"jp"	    : "",
+			"fileName"	: "v_lun0631.wav",
+			"emotions"	: "joy"
+
+		},
+		{
+			"cn"	    : "快回去",
+			"jp"	    : "",
+			"fileName"	: "v_lun0623.wav",
+			"emotions"	: "disgust"
+
+		},
+		{
+			"cn"	    : "滚出去",
+			"jp"	    : "",
+			"fileName"	: "v_lun0624.wav",
+			"emotions"	: "disgust"
+
+		},
+		{
+			"cn"	    : "闭嘴",
+			"jp"	    : "",
+			"fileName"	: "v_lun0625.wav",
+			"emotions"	: "disgust"
+
+		},
+		{
+			"cn"	    : "嗯？（怎么回事啊）",
+			"jp"	    : "",
+			"fileName"	: "v_lun0608.wav",
+			"emotions"	: "surprise"
+
+		},
+		{
+			"cn"	    : "不对",
+			"jp"	    : "",
+			"fileName"	: "v_lun0569.wav",
+			"emotions"	: "anticipation"
+
+		},
+		{
+			"cn"	    : "嗯！（果断）",
+			"jp"	    : "",
+			"fileName"	: "v_lun0549.wav",
+			"emotions"	: "trust"
+
+		},
+		{
+			"cn"	    : "嗯！（开心）",
+			"jp"	    : "",
+			"fileName"	: "v_lun0533.wav",
+			"emotions"	: "joy"
+
+		},
+		{
+			"cn"	    : "是嘛，谢谢你",
+			"jp"	    : "",
+			"fileName"	: "v_lun0537.wav",
+			"emotions"	: "joy"
+
+		},
+		{
+			"cn"	    : "我宽恕（十二国记）",
+			"jp"	    : "",
+			"fileName"	: "v_lun0523.wav",
+			"emotions"	: "trust"
+
+		},
+		{
+			"cn"	    : "欸？~~~~（惊讶）",
+			"jp"	    : "",
+			"fileName"	: "v_lun0513.wav",
+			"emotions"	: "surprise"
+
+		},
+		{
+			"cn"	    : "想说的只有这些么？",
+			"jp"	    : "",
+			"fileName"	: "v_lun0503.wav",
+			"emotions"	: "disgust"
+
+		},
+		{
+			"cn"	    : "是谁呀（冷冷的）",
+			"jp"	    : "",
+			"fileName"	: "v_lun0500.wav",
+			"emotions"	: "disgust"
+
+		},
+		{
+			"cn"	    : "啊，晚安，明天见",
+			"jp"	    : "",
+			"fileName"	: "v_lun0499.wav",
+			"emotions"	: "anticipation"
+
+		},
+		{
+			"cn"	    : "没有回答么？",
+			"jp"	    : "",
+			"fileName"	: "v_lun0483.wav",
+			"emotions"	: "anticipation"
+
+		},
+		{
+			"cn"	    : "做好了",
+			"jp"	    : "",
+			"fileName"	: "v_lun0450.wav",
+			"emotions"	: "joy"
+
+		},
+		{
+			"cn"	    : "朝日是我的东西，我最引以为傲的女仆",
+			"jp"	    : "",
+			"fileName"	: "v_lun0334.wav",
+			"emotions"	: "joy"
+
+		},
+		{
+			"cn"	    : "心情很好",
+			"jp"	    : "",
+			"fileName"	: "v_lun0430.wav",
+			"emotions"	: "joy"
+
+		},
+		{
+			"cn"	    : "笨蛋（普通）",
+			"jp"	    : "",
+			"fileName"	: "v_lun0393.wav",
+			"emotions"	: "disgust"
+
+		},
+		{
+			"cn"	    : "怎么啦（疑问）",
+			"jp"	    : "",
+			"fileName"	: "v_lun0337.wav",
+			"emotions"	: "surprise"
+
+		},
+		{
+			"cn"	    : "抱歉，你是谁，我不记得了",
+			"jp"	    : "",
+			"fileName"	: "v_lun0344.wav",
+			"emotions"	: "disgust"
+
+		},
+		{
+			"cn"	    : "放心吧",
+			"jp"	    : "",
+			"fileName"	: "v_lun0333.wav",
+			"emotions"	: "joy"
+
+		},
+		{
+			"cn"	    : "全员真吵（不开心）",
+			"jp"	    : "",
+			"fileName"	: "v_lun0328.wav",
+			"emotions"	: "disgust"
+
+		},
+		{
+			"cn"	    : "怎么啦（开心）",
+			"jp"	    : "",
+			"fileName"	: "v_lun0306.wav",
+			"emotions"	: "joy"
+
+		},
+		{
+			"cn"	    : "一点也不",
+			"jp"	    : "",
+			"fileName"	: "v_lun0303.wav",
+			"emotions"	: "anticipation"
+
+		},
+		{
+			"cn"	    : "嗯？比如说？",
+			"jp"	    : "",
+			"fileName"	: "v_lun0281.wav",
+			"emotions"	: "anticipation"
+
+		},
+		{
+			"cn"	    : "真是麻烦",
+			"jp"	    : "",
+			"fileName"	: "v_lun0275.wav",
+			"emotions"	: "disgust"
+
+		},
+		{
+			"cn"	    : "情侣么？",
+			"jp"	    : "",
+			"fileName"	: "v_lun0257.wav",
+			"emotions"	: "disgust"
+
+		},
+		{
+			"cn"	    : "笨蛋们别碍事",
+			"jp"	    : "",
+			"fileName"	: "v_lun0248.wav",
+			"emotions"	: "anticipation"
+
+		},
+		{
+			"cn"	    : "笨蛋！！！（生气）",
+			"jp"	    : "",
+			"fileName"	: "v_lun0199.wav",
+			"emotions"	: "anger"
+
+		},
+		{
+			"cn"	    : "嗯？（疑问）",
+			"jp"	    : "",
+			"fileName"	: "v_lun0155.wav",
+			"emotions"	: "surprise"
+
+		},
+		{
+			"cn"	    : "很好，很听话",
+			"jp"	    : "",
+			"fileName"	: "v_lun0151.wav",
+			"emotions"	: "joy"
+
+		},
+		{
+			"cn"	    : "是谁呀",
+			"jp"	    : "",
+			"fileName"	: "v_lun0134.wav",
+			"emotions"	: "disgust"
+
+		},
+		{
+			"cn"	    : "真是大胆",
+			"jp"	    : "",
+			"fileName"	: "v_lun0121.wav",
+			"emotions"	: "anticipation"
+
+		},
+		{
+			"cn"	    : "啊哈哈哈哈（大笑）",
+			"jp"	    : "",
+			"fileName"	: "v_lun0082a.wav",
+			"emotions"	: "joy"
+
+		},
+		{
+			"cn"	    : "心情大好",
+			"jp"	    : "",
+			"fileName"	: "v_lun3420.wav",
+			"emotions"	: "joy"
+
+		},
+		{
+			"cn"	    : "心情大好（色气）",
+			"jp"	    : "",
+			"fileName"	: "v_lun31640.wav",
+			"emotions"	: "joy"
+			
+		},
+		{
+			"cn"	    : "心情大好（捉弄）",
+			"jp"	    : "",
+			"fileName"	: "v_lun4465.wav",
+			"emotions"	: "joy"
+			
+		},
+		{
+			"cn"	    : "朝日",
+			"jp"	    : "",
+			"fileName"	: "v_lun31639.wav",
+			"emotions"	: "joy"
+			
+		},
+		{
+			"cn"	    : "朝日（少女动情中）",
+			"jp"	    : "",
+			"fileName"	: "v_lun3716.wav",
+			"emotions"	: "joy"
+			
+		},
+		{
+			"cn"	    : "朝日(✧◡✧)",
+			"jp"	    : "",
+			"fileName"	: "v_lun4475.wav",
+			"emotions"	: "joy"
+		},
+		{
+			"cn"	    : "看招看招看招",
+			"jp"	    : "",
+			"fileName"	: "v_lun31642.wav",
+			"emotions"	: "joy"
+			
+		},
+		{
+			"cn"	    : "转三圈汪汪叫",
+			"jp"	    : "",
+			"fileName"	: "v_lun0046.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "完全不像那回事，是处女吧",
+			"jp"	    : "",
+			"fileName"	: "v_lun0047.wav",
+			"emotions"	: "disgust"
+			
+		},
+		{
+			"cn"	    : "会怎么样呢？（笑）",
+			"jp"	    : "",
+			"fileName"	: "v_lun3561.wav",
+			"emotions"	: "joy"
+			
+		},
+		{
+			"cn"	    : "嗯~嘿~（害羞娇喘）",
+			"jp"	    : "",
+			"fileName"	: "v_lun3613.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "谢谢，很感谢，非常的开心",
+			"jp"	    : "",
+			"fileName"	: "v_lun3626.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "住..住手！朝日快救我。啊~~",
+			"jp"	    : "",
+			"fileName"	: "v_lun3612.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "抱歉打扰了。喵~~",
+			"jp"	    : "",
+			"fileName"	: "v_lun3637.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "嗯",
+			"jp"	    : "",
+			"fileName"	: "v_lun3686.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "什么？（纳尼，轻声怀疑）",
+			"jp"	    : "",
+			"fileName"	: "v_lun3692.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "什么？（纳尼，恶狠狠）",
+			"jp"	    : "",
+			"fileName"	: "v_lun4299.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "反复无常（只是我的任性，心血来潮）",
+			"jp"	    : "",
+			"fileName"	: "v_lun3693.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "才不要，我不相信你",
+			"jp"	    : "",
+			"fileName"	: "v_lun3694.wav",
+			"emotions"	: "disgust"
+			
+		},
+		{
+			"cn"	    : "笨蛋（baka）",
+			"jp"	    : "",
+			"fileName"	: "v_lun3701.wav",
+			"emotions"	: "sadness"
+			
+		},
+		{
+			"cn"	    : "开什么玩笑呀（轻声）",
+			"jp"	    : "",
+			"fileName"	: "v_lun3702.wav",
+			"emotions"	: "sadness"
+			
+		},
+		{
+			"cn"	    : "开什么玩笑呀！笨蛋",
+			"jp"	    : "",
+			"fileName"	: "v_lun3703.wav",
+			"emotions"	: "anger"
+			
+		},
+		{
+			"cn"	    : "谢谢你，朝日",
+			"jp"	    : "",
+			"fileName"	: "v_lun3715.wav",
+			"emotions"	: "joy"
+			
+		},
+		{
+			"cn"	    : "怎么啦",
+			"jp"	    : "何だ",
+			"fileName"	: "v_lun3721.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "我拒绝",
+			"jp"	    : "",
+			"fileName"	: "v_lun3723.wav",
+			"emotions"	: "disgust"
+			
+		},
+		{
+			"cn"	    : "是嘛",
+			"jp"	    : "",
+			"fileName"	: "v_lun3799.wav",
+			"emotions"	: "joy"
+			
+		},
+		{
+			"cn"	    : "嗯Σっ°Д°;)っ",
+			"jp"	    : "",
+			"fileName"	: "v_lun3804.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "无路赛baka，······",
+			"jp"	    : "",
+			"fileName"	: "v_lun3808.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "啊（少女娇羞中）",
+			"jp"	    : "",
+			"fileName"	: "v_lun3816.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "这种不纯的关系非我所求",
+			"jp"	    : "",
+			"fileName"	: "v_lun3817.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "晚安",
+			"jp"	    : "",
+			"fileName"	: "v_lun3819.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "啊哈哈，朝日真可爱呀，看招看招。不许逃走这可是命令哟",
+			"jp"	    : "",
+			"fileName"	: "v_lun3921.wav",
+			"emotions"	: "joy"
+			
+		},
+		{
+			"cn"	    : "嫉妒了吗",
+			"jp"	    : "",
+			"fileName"	: "v_lun3947.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "那么，接吻吧",
+			"jp"	    : "",
+			"fileName"	: "v_lun4124.wav",
+			"emotions"	: "trust"
+		},
+		{
+			"cn"	    : "开玩笑的，不纯的关系非我所求",
+			"jp"	    : "",
+			"fileName"	: "v_lun4126.wav",
+			"emotions"	: "joy"
+		},
+		{
+			"cn"	    : "我渴求不纯的关系",
+			"jp"	    : "",
+			"fileName"	: "v_lun4198.wav",
+			"emotions"	: "trust"
+		},
+		{
+			"cn"	    : "绝不可能",
+			"jp"	    : "",
+			"fileName"	: "v_lun4275.wav",
+			"emotions"	: "disgust"
+		},
+		{
+			"cn"	    : "开玩笑的话到此为止",
+			"jp"	    : "",
+			"fileName"	: "v_lun4277.wav",
+			"emotions"	: "disgust"
+		},
+		{
+			"cn"	    : "真是差劲",
+			"jp"	    : "",
+			"fileName"	: "v_lun4284.wav",
+			"emotions"	: "disgust"
+		},
+		{
+			"cn"	    : "没有必要",
+			"jp"	    : "",
+			"fileName"	: "v_lun4288.wav",
+			"emotions"	: "disgust"
+		},
+		{
+			"cn"	    : "你在说什么，怎么可能（笑）",
+			"jp"	    : "",
+			"fileName"	: "v_lun4303.wav",
+			"emotions"	: "joy"
+		},
+		{
+			"cn"	    : "所以那又怎么样？",
+			"jp"	    : "",
+			"fileName"	: "v_lun4306.wav",
+			"emotions"	: "anticipation"
+		},
+		{
+			"cn"	    : "我最重要的人",
+			"jp"	    : "",
+			"fileName"	: "v_lun4316.wav",
+			"emotions"	: "trust"
+		},
+		{
+			"cn"	    : "开什么玩笑呀",
+			"jp"	    : "",
+			"fileName"	: "v_lun4339.wav",
+			"emotions"	: "anger"
+		},
+		{
+			"cn"	    : "你说过你永远会留在我身边的，连这个约定也要反悔么？",
+			"jp"	    : "",
+			"fileName"	: "v_lun4340.wav",
+			"emotions"	: "anger"
+		},
+		{
+			"cn"	    : "睁开双眼！你不需要低下头，现在马上站起来，到我身边来！",
+			"jp"	    : "",
+			"fileName"	: "v_lun4341.wav",
+			"emotions"	: "anger"
+		},
+		{
+			"cn"	    : "所谓携手并进不就是这样吗？途观平坦道路只有一个人的宽度，那么我 会很开心地走上长满荆棘的道路",
+			"jp"	    : "",
+			"fileName"	: "v_lun4344.wav",
+			"emotions"	: "trust"
+		},
+		{
+			"cn"	    : "为什么不依靠我呢？为什么不向我提出过分的要求呢？我不是说过我信赖你吗？",
+			"jp"	    : "",
+			"fileName"	: "v_lun4345.wav",
+			"emotions"	: "sadness"
+		},
+		{
+			"cn"	    : "犯错的话就互相纠正，痛苦的话就互相拥抱，无法原谅的话就互相敲打，即使这样依然不离不弃，我们的关系不就是这样吗？",
+			"jp"	    : "間違えれば教え合い、苦しければ寄り掛かり、許せなければ叩き合い、それでも共に歩くが私たちの関係なんだろう",
+			"fileName"	: "v_lun4346.wav",
+			"emotions"	: "trust"
+		},
+		{
+			"cn"	    : "拜托了，不",
+			"jp"	    : "",
+			"fileName"	: "v_lun4348.wav",
+			"emotions"	: "sadness"
+		},
+		{
+			"cn"	    : "你...知道要去哪里么？",
+			"jp"	    : "",
+			"fileName"	: "v_lun4350.wav",
+			"emotions"	: "trust"
+		},
+		{
+			"cn"	    : "保重身体",
+			"jp"	    : "",
+			"fileName"	: "v_lun4351.wav",
+			"emotions"	: "anticipation"
+		},
+		{
+			"cn"	    : "我也爱着你",
+			"jp"	    : "",
+			"fileName"	: "v_lun4354.wav",
+			"emotions"	: "trust"
+		},
+		{
+			"cn"	    : "怎么啦",
+			"jp"	    : "どうした",
+			"fileName"	: "v_lun4361.wav",
+			"emotions"	: "joy"
+		},
+		{
+			"cn"	    : "结束了，做完了",
+			"jp"	    : "終わった",
+			"fileName"	: "v_lun4362.wav",
+			"emotions"	: "anticipation"
+		},
+		{
+			"cn"	    : "你依旧还是老样子",
+			"jp"	    : "",
+			"fileName"	: "v_lun4367.wav",
+			"emotions"	: "trust"
+		},
+		{
+			"cn"	    : "我也喜欢",
+			"jp"	    : "",
+			"fileName"	: "v_lun4373.wav",
+			"emotions"	: "joy"
+		},
+		{
+			"cn"	    : "我也爱着你",
+			"jp"	    : "",
+			"fileName"	: "v_lun4374.wav",
+			"emotions"	: "trust"
+		},
+		{
+			"cn"	    : "好想念你",
+			"jp"	    : "",
+			"fileName"	: "v_lun4375.wav",
+			"emotions"	: "joy"
+		},
+		{
+			"cn"	    : "谢谢你",
+			"jp"	    : "",
+			"fileName"	: "v_lun4376.wav",
+			"emotions"	: "joy"
+		},
+		{
+			"cn"	    : "痴女笑",
+			"jp"	    : "",
+			"fileName"	: "v_lun4435.wav",
+			"emotions"	: "joy"
+		},
+		{
+			"cn"	    : "等一下，等等等等一下",
+			"jp"	    : "まで..までまで...までまでまでまで....",
+			"fileName"	: "v_lun4436.wav",
+			"emotions"	: "surprise"
+		},
+		{
+			"cn"	    : "放马过来吧，别手软",
+			"jp"	    : "かかってこい",
+			"fileName"	: "v_lun4443.wav",
+			"emotions"	: "trust"
+		},
+		
+		{
+			"cn"	    : "什么嘛",
+			"jp"	    : "",
+			"fileName"	: "v_lun4460.wav",
+			"emotions"	: "disgust"
+		},
+		{
+			"cn"	    : "一脸不满的嘛",
+			"jp"	    : "",
+			"fileName"	: "v_lun4493.wav",
+			"emotions"	: "disgust"
+		},
+		{
+			"cn"	    : "好害羞",
+			"jp"	    : "",
+			"fileName"	: "v_lun4500.wav",
+			"emotions"	: "surprise"
+		},
+		{
+			"cn"	    : "这个表情不对吧，你不是一直在微笑着",
+			"jp"	    : "",
+			"fileName"	: "v_lun14003.wav",
+			"emotions"	: "anticipation"
+		},
+		{
+			"cn"	    : "你是笨蛋吧",
+			"jp"	    : "",
+			"fileName"	: "v_lun31122.wav",
+			"emotions"	: "disgust"
+		},
+		{
+			"cn"	    : "好可爱，可爱得不得了，我的朝日世界第一可爱",
+			"jp"	    : "",
+			"fileName"	: "v_lun31668.wav",
+			"emotions"	: "joy"
+		},
+		{
+			"cn"	    : "去吧",
+			"jp"	    : "",
+			"fileName"	: "v_lun31672.wav",
+			"emotions"	: "anticipation"
+		},
+		{
+			"cn"	    : "去吧（色气）",
+			"jp"	    : "",
+			"fileName"	: "v_lun31773.wav",
+			"emotions"	: "joy"
+		},
+		{
+			"cn"	    : "朝日，好可爱",
+			"jp"	    : "",
+			"fileName"	: "v_lun31770.wav",
+			"emotions"	: "joy"
+		},
+		{
+			"cn"	    : "不对，闭嘴。朝日..,够了，讨厌不直率的朝日。哼~",
+			"jp"	    : "",
+			"fileName"	: "v_lun41007.wav",
+			"emotions"	: "disgust"
+		},
+		{
+			"cn"	    : "那么，晚安",
+			"jp"	    : "",
+			"fileName"	: "lun_sp07.wav",
+			"emotions"	: "anticipation"
+		}
+	],
+	"_comment2":"大藏里想奈",
+	"res" : [
+		{
+			"cn"	    : "有人在么？这个房间里有吐槽用的折扇，治笨蛋的药物也行",
+			"jp"	    : "",
+			"fileName"	: "v_res31050.wav",
+			"emotions"	: "joy"
+			
+		},
+		{
+			"cn"	    : "真的嘛，总感觉不太好呢？",
+			"jp"	    : "",
+			"fileName"	: "v_res31051.wav",
+			"emotions"	: "joy"
+			
+		},
+		{
+			"cn"	    : "心情大好",
+			"jp"	    : "",
+			"fileName"	: "v_res31072.wav",
+			"emotions"	: "joy"
+			
+		},
+		{
+			"cn"	    : "不，不要呀",
+			"jp"	    : "",
+			"fileName"	: "v_res0003.wav",
+			"emotions"	: "fear"
+		},
+		{
+			"cn"	    : "欸嘿嘿（天真的笑声）",
+			"jp"	    : "",
+			"fileName"	: "v_res0008.wav",
+			"emotions"	: "joy"
+			
+		},
+		{
+			"cn"	    : "什么呢？",
+			"jp"	    : "",
+			"fileName"	: "v_res0017.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "那个，话说",
+			"jp"	    : "",
+			"fileName"	: "v_res0029.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "是这样吗？",
+			"jp"	    : "",
+			"fileName"	: "v_res0033.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "太近了，离远点离远点",
+			"jp"	    : "",
+			"fileName"	: "v_res0038.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "与其说恶心，不如说很不爽，妹妹要离你远点",
+			"jp"	    : "",
+			"fileName"	: "v_res0054.wav",
+			"emotions"	: "disgust"
+			
+		},
+		{
+			"cn"	    : "与其说恶心，不如说很不爽，妹妹要离你远点",
+			"jp"	    : "",
+			"fileName"	: "v_res0054.wav",
+			"emotions"	: "disgust"
+			
+		},
+		{
+			"cn"	    : "不愿意么？",
+			"jp"	    : "",
+			"fileName"	: "v_res0061.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "大事不好",
+			"jp"	    : "",
+			"fileName"	: "v_res0064.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "对不起",
+			"jp"	    : "",
+			"fileName"	: "v_res0146.wav",
+			"emotions"	: "fear"
+			
+		},
+		{
+			"cn"	    : "哇,别把衣服拿到这边来",
+			"jp"	    : "",
+			"fileName"	: "v_res0155.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "哥哥大人",
+			"jp"	    : "",
+			"fileName"	: "v_res0264.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "蛤？（震惊）",
+			"jp"	    : "",
+			"fileName"	: "v_res0264.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "骗人的吧，真的不打算回来么",
+			"jp"	    : "",
+			"fileName"	: "v_res3018.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "对不起",
+			"jp"	    : "",
+			"fileName"	: "v_res3040.wav",
+			"emotions"	: "sadness"
+			
+		},
+		{
+			"cn"	    : "对不起,对不起,对不起",
+			"jp"	    : "",
+			"fileName"	: "v_res3041.wav",
+			"emotions"	: "sadness"
+			
+		},
+		{
+			"cn"	    : "但是",
+			"jp"	    : "",
+			"fileName"	: "v_res3052.wav",
+			"emotions"	: "sadness"
+			
+		},
+		{
+			"cn"	    : "不也挺好的嘛",
+			"jp"	    : "",
+			"fileName"	: "v_res3063.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "但是",
+			"jp"	    : "",
+			"fileName"	: "v_res3052.wav",
+			"emotions"	: "sadness"
+			
+		},
+		{
+			"cn"	    : "还是没有放弃的打算么？",
+			"jp"	    : "",
+			"fileName"	: "v_res3067.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "请叫公主",
+			"jp"	    : "",
+			"fileName"	: "v_res3080.wav",
+			"emotions"	: "trust"
+			
+		},
+		{
+			"cn"	    : "请叫公主",
+			"jp"	    : "",
+			"fileName"	: "v_res3080.wav",
+			"emotions"	: "trust"
+			
+		},
+		{
+			"cn"	    : "还是没有放弃的打算么？",
+			"jp"	    : "",
+			"fileName"	: "v_res3067.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "欸？！！！！（）",
+			"jp"	    : "",
+			"fileName"	: "v_res3094.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "真是差劲呢，虽然已经知道",
+			"jp"	    : "",
+			"fileName"	: "v_res3099.wav",
+			"emotions"	: "anger"
+			
+		},
+		{
+			"cn"	    : "打扰了",
+			"jp"	    : "",
+			"fileName"	: "v_res31001.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "喂喂，我是妹妹，快来救我",
+			"jp"	    : "",
+			"fileName"	: "v_res3104.wav",
+			"emotions"	: "anger"
+			
+		},
+		{
+			"cn"	    : "因为我是个兄控",
+			"jp"	    : "",
+			"fileName"	: "v_res6015.wav",
+			"emotions"	: "anger"
+			
+		},
+		{
+			"cn"	    : "比起那件事,比起那件事",
+			"jp"	    : "",
+			"fileName"	: "v_res31011.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "嗨，非常感谢你",
+			"jp"	    : "",
+			"fileName"	: "v_res31054.wav",
+			"emotions"	: "fear"
+			
+		},
+		{
+			"cn"	    : "额，果然呐",
+			"jp"	    : "",
+			"fileName"	: "v_res31065.wav",
+			"emotions"	: "sadness"
+			
+		},
+		{
+			"cn"	    : "没有可能",
+			"jp"	    : "",
+			"fileName"	: "v_res31113.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "那么为什么要和那个人交往呢？",
+			"jp"	    : "",
+			"fileName"	: "v_res31169.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "真好呢，这么单纯",
+			"jp"	    : "",
+			"fileName"	: "v_res33032.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "喔！！！",
+			"jp"	    : "",
+			"fileName"	: "v_res33057.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "妹妹在巴黎等着你呢",
+			"jp"	    : "",
+			"fileName"	: "v_res41001.wav",
+			"emotions"	: "joy"
+			
+		}
+
+	],
+	"_comment3":"小仓朝日",
+	"asa" : [
+		{
+			"cn"	    : "露娜大人",
+			"jp"	    : "",
+			"fileName"	: "v_asa1461.wav",
+			"emotions"	: "trust"
+			
+		},
+		{
+			"cn"	    : "露娜大人(轻声)",
+			"jp"	    : "",
+			"fileName"	: "v_asa1331.wav",
+			"emotions"	: "trust"
+			
+		},
+		{
+			"cn"	    : "露娜大人(很甜)",
+			"jp"	    : "",
+			"fileName"	: "v_asa1326.wav",
+			"emotions"	: "trust"
+			
+		},
+		{
+			"cn"	    : "露娜大人",
+			"jp"	    : "",
+			"fileName"	: "v_asa1280.wav",
+			"emotions"	: "trust"
+			
+		},
+		{
+			"cn"	    : "露娜大人",
+			"jp"	    : "",
+			"fileName"	: "v_asa0716.wav",
+			"emotions"	: "trust"
+			
+		},
+		{
+			"cn"	    : "有什么事嘛，露娜大人",
+			"jp"	    : "",
+			"fileName"	: "v_asa0512.wav",
+			"emotions"	: "trust"
+			
+		},
+		{
+			"cn"	    : "露娜大人(普通)",
+			"jp"	    : "",
+			"fileName"	: "v_asa0689.wav",
+			"emotions"	: "trust"
+			
+		},
+		{
+			"cn"	    : "露娜大人(撒娇)",
+			"jp"	    : "",
+			"fileName"	: "v_asa0425.wav",
+			"emotions"	: "trust"
+			
+		},
+		{
+			"cn"	    : "露娜大人（惊讶）",
+			"jp"	    : "",
+			"fileName"	: "v_asa0417.wav",
+			"emotions"	: "trust"
+			
+		},
+		{
+			"cn"	    : "拜托请来救我",
+			"jp"	    : "",
+			"fileName"	: "v_asa0359.wav",
+			"emotions"	: "fear"
+			
+		},
+		{
+			"cn"	    : "露娜大人好过分",
+			"jp"	    : "",
+			"fileName"	: "v_asa0357.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "没事吧",
+			"jp"	    : "",
+			"fileName"	: "v_asa0258.wav",
+			"emotions"	: "anticipation"
+			
+		},
+		{
+			"cn"	    : "这是性骚扰",
+			"jp"	    : "",
+			"fileName"	: "v_asa0210.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "这是非常变态的行为",
+			"jp"	    : "",
+			"fileName"	: "v_asa0213.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "哼",
+			"jp"	    : "",
+			"fileName"	: "v_asa4605.wav",
+			"emotions"	: "disgust"
+			
+		},
+		{
+			"cn"	    : "哼",
+			"jp"	    : "",
+			"fileName"	: "v_asa0889.wav",
+			"emotions"	: "disgust"
+			
+		},
+		{
+			"cn"	    : "呀（朝日娘可爱的叫声）",
+			"jp"	    : "",
+			"fileName"	: "v_asa0508.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "呀，呀（）",
+			"jp"	    : "",
+			"fileName"	: "v_asa0360.wav",
+			"emotions"	: "surprise"
+			
+		}
+	],
+	"_comment4":"大藏衣远",
+	"aeo" : [
+		{
+			"cn"	    : "噫！！！",
+			"jp"	    : "",
+			"fileName"	: "ap_v_aeo0018.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "这都是些什么呀！！",
+			"jp"	    : "",
+			"fileName"	: "ap_v_aeo0020.wav",
+			"emotions"	: "surprise"
+			
+		},
+		{
+			"cn"	    : "渣滓呀！！",
+			"jp"	    : "",
+			"fileName"	: "ap_v_aeo0022.wav",
+			"emotions"	: "anger"
+			
+		},
+		{
+			"cn"	    : "渣滓呀（暴怒）！！",
+			"jp"	    : "",
+			"fileName"	: "ap_v_aeo0028.wav",
+			"emotions"	: "anger"
+		},
+		{
+			"cn"	    : "闭嘴，丑小鸭",
+			"jp"	    : "",
+			"fileName"	: "ap_v_aeo0088.wav",
+			"emotions"	: "disgust"
+		},
+		{
+			"cn"	    : "闭嘴，你这愚蠢的丑小鸭。马铃薯炖肉你能吃的部分，只有洋葱而已",
+			"jp"	    : "",
+			"fileName"	: "ap_v_aeo0089.wav",
+			"emotions"	: "disgust"
+		},
+		{
+			"cn"	    : "闭嘴，愚蠢的灰姑娘",
+			"jp"	    : "",
+			"fileName"	: "ap_v_aeo0093.wav",
+			"emotions"	: "disgust"
+		},
+		{
+			"cn"	    : "闭嘴，愚蠢的裸体国王",
+			"jp"	    : "",
+			"fileName"	: "ap_v_aeo0095.wav",
+			"emotions"	: "disgust"
+		},
+		{
+			"cn"	    : "闭嘴，愚蠢的卖bitch少女",
+			"jp"	    : "",
+			"fileName"	: "ap_v_aeo0097.wav",
+			"emotions"	: "disgust"
+		}
+
+	],
+	"_comment5":"艾斯特·加拉哈·阿诺兹（Est·Gealach·Arnotts）",
+	"est" : [
+		{
+			"cn"	    : "feck!!! feck! feck! feck!",
+			"jp"	    : "",
+			"fileName"	: "v_est0066a.wav",
+			"emotions"	: "disgust"
+			
+		},
+		{
+			"cn"	    : "feck",
+			"jp"	    : "",
+			"fileName"	: "v_est0136.wav",
+			"emotions"	: "disgust"
+			
+		},
+		{
+			"cn"	    : "feck",
+			"jp"	    : "",
+			"fileName"	: "v_est0136e.wav",
+			"emotions"	: "disgust"
+			
+		}
+	]
+
+}
