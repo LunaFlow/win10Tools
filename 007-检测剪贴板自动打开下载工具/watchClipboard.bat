@@ -1,0 +1,1 @@
+powershell -WindowStyle Hidden -exe bypass -noprofile -file .\watchClipboard.ps1
