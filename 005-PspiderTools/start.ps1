@@ -377,6 +377,8 @@ $Button2.Add_Click(
         }
         $aria2 = Get-Process | Where-Object {$_.ProcessName -eq "aria2c"}
         
+        Start-Process $PSSCRIPTROOT\_aria2\AriaNg.html
+
         if ($null -eq $aria2) {
             # start aria2
             $dirPath = (Get-Location)
