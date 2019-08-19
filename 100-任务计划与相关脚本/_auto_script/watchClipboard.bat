@@ -1,0 +1,1 @@
+powershell -WindowStyle Hidden -exe bypass -noprofile -file C:\Users\Anchan\OneDrive\_auto_script\watchClipboard.ps1

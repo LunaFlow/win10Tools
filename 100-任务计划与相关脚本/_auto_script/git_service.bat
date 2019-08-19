@@ -1,0 +1,1 @@
+powershell  -exe bypass -noprofile -file C:\Users\Anchan\OneDrive\_auto_script\git_service.ps1

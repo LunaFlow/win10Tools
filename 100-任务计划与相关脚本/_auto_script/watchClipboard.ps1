@@ -1,5 +1,5 @@
 ﻿if (Test-Path $PSSCRIPTROOT\_config\config.json) {
-    $config = Get-Content -Encoding UTF8 ./_config\config.json | ConvertFrom-Json
+    $config = Get-Content -Encoding UTF8 $PSSCRIPTROOT\_config\config.json | ConvertFrom-Json
     while(1){
         $value = Get-Clipboard
         write-host "DEBUG:$value"
@@ -23,6 +23,6 @@
             $null | clip.exe
             $value = $null
         }
-        sleep 2
+        sleep 1
     }
 }
